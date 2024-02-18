@@ -1,1 +1,1 @@
-# gitProjects
+# Парсер вакансий на hh.ru
